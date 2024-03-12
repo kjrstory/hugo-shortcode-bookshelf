@@ -39,6 +39,7 @@ bookshelf_item:
     cover_img: "URL_to_cover_image"
     cover_link: "URL_to_book_page"
     author: "Author Name"
+```
 Replace Example Book Title, URL_to_cover_image, URL_to_book_page, and Author Name with the details of the books you want to display.
 
 ## Example
