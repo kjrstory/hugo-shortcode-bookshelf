@@ -1,6 +1,6 @@
 # Hugo Bookshelf Shortcode
 
-This Hugo shortcode allows you to display a virtual bookshelf on your site, showcasing books with their covers, titles, authors, and links to purchase or learn more. Inspired by [petargyurov's project](https://github.com/petargyurov), this shortcode enhances your Hugo site with a visually appealing bookshelf, perfect for book reviewers, libraries, or anyone wanting to showcase a collection of books.
+This Hugo shortcode allows you to display a virtual bookshelf on your site, showcasing books with their covers, titles, authors, and links to purchase or learn more. Inspired by [petargyurov's project](https://github.com/petargyurov/virtual-bookshelf), this shortcode enhances your Hugo site with a visually appealing bookshelf, perfect for book reviewers, libraries, or anyone wanting to showcase a collection of books.
 
 ## Features
 
